@@ -16,7 +16,7 @@
 title: Paul Schacht
 email: schacht@geneseo.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I blog.
+  All content licensed under a CC-BY license.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WhatTheDickens
